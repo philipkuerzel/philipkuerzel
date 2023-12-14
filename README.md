@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Philip
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 🌱 I’m currently learning HTML, CSS and JS at SuperCode 🚀
+
+
 
 <!---
 philipkuerzel/philipkuerzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
