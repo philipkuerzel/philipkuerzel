@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">a motivated Junior Full Stack Developer from [Your Location]. While I am at the beginning of my career, I am passionate about developing innovative and user-friendly software solutions. I continuously expand my knowledge and skills by learning new technologies and best practices.</h3>
+<h3 align="center">a motivated Junior Full Stack Developer from Germany. While I am at the beginning of my career, I am passionate about developing innovative and user-friendly software solutions. I continuously expand my knowledge and skills by learning new technologies and best practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipkuerzel&label=Profile%20views&color=0e75b6&style=flat" alt="philipkuerzel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipkuerzel" alt="philipkuerzel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
