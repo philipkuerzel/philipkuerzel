@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">a motivated Junior Full Stack Developer from [Your Location]. While I am at the beginning of my career, I am passionate about developing innovative and user-friendly software solutions. I continuously expand my knowledge and skills by learning new technologies and best practices.</h3>
+<h1 align="center">Hi 👋, I'm Philip,</h1>
+<h3 align="center">a motivated Junior Full Stack Developer from Germany. While I am at the beginning of my career, I am passionate about developing innovative and user-friendly software solutions. I continuously expand my knowledge and skills by learning new technologies and best practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipkuerzel&label=Profile%20views&color=0e75b6&style=flat" alt="philipkuerzel" /> </p>
 
